@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    android:background="@drawable/home_foreground"
+    android:backgroundTint="@color/white"
     tools:context=".MainActivity">
 <androidx.cardview.widget.CardView
     android:layout_width="match_parent"
@@ -14,7 +14,7 @@
     android:layout_gravity="bottom"
     app:cardCornerRadius="20dp"
     app:cardElevation="4dp"
-    android:layout_marginBottom="5dp"
+    app:cardBackgroundColor="@color/white"
     android:layout_marginHorizontal="5dp"
 
     >
@@ -24,7 +24,7 @@
         android:layout_gravity="bottom"
         app:menu="@menu/nav_bar_items"
         android:background="#8891B1"
-        app:labelVisibilityMode="labeled"
+
 
         />
 
