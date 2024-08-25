@@ -24,6 +24,7 @@
         android:layout_gravity="bottom"
         app:menu="@menu/nav_bar_items"
         android:background="#8891B1"
+        app:labelVisibilityMode="labeled"
 
 
         />

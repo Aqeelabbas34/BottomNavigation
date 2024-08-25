@@ -12,10 +12,10 @@
         android:title="Chat"
         android:icon="@drawable/chat_foreground"
         />
-    <item
-        android:title="Setting"
-        android:icon="@drawable/setting_foreground"
-        />
+<!--    <item-->
+<!--        android:title="Setting"-->
+<!--        android:icon="@drawable/setting_foreground"-->
+<!--        />-->
     <item
         android:title="Profile"
         android:icon="@drawable/profile_foreground"
